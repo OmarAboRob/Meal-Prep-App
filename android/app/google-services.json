@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369080695601",
+    "project_id": "mealprepapp-ad0af",
+    "storage_bucket": "mealprepapp-ad0af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369080695601:android:e4c78706500763ef0d4e10",
+        "android_client_info": {
+          "package_name": "com.example.meal_prepare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJBYhyxj7_c3jpjTa1-tNIDZ77se3Tfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
